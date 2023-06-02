@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+
+.parallax1 {
+  background-image: url("../images/P1.jpg");
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  background-image: url("../images/P2.jpg");
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax3 {
+  background-image: url("../images/P6.jpg");
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax4 {
+  background-image: url("../images/P7.jpg");
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax5 {
+  background-image: url("../images/P8.jpg");
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax6{
+  background-image: url("../images/P9.jpg");
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax7 {
+  background-image: url("../images/P11.jpg");
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax8 {
+  background-image: url("../images/P12.jpg");
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax9 {
+  background-image: url("../images/P13.jpg");
+  min-height: 1000px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
